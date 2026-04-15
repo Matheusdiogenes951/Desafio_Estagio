@@ -20,7 +20,7 @@
                     <img src="{{ asset('imagens/brasao.png') }}" alt="Brasão da EEEP Comendador Miguel Gurgel">
                 </div>
                 <div class="brand-copy">
-                    <span class="brand-title">EEEP MIGUEL GURGEL</span>
+                    <span class="brand-title">EEEP COMENDADOR MIGUEL GURGEL</span>
                     <span class="brand-subtitle">Excelência em educação técnica</span>
                 </div>
             </a>
