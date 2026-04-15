@@ -178,7 +178,7 @@
     <footer class="site-footer">
         <div class="shell footer-inner">
             <div>
-                <span class="footer-title">EEEP Miguel Gurgel</span>
+                <span class="footer-title">EEEP Comendador Miguel Gurgel</span>
                 <p>© 2026 EEEP Comendador Miguel Gurgel. Todos os direitos reservados.</p>
             </div>
 
@@ -203,7 +203,7 @@
                         <img src="{{ asset('imagens/brasao.png') }}" alt="Brasão da escola">
                     </div>
                     <div>
-                        <h2 id="chatTitle">EEEP MIGUEL GURGEL</h2>
+                        <h2 id="chatTitle">EEEP COMENDADOR MIGUEL GURGEL</h2>
                     </div>
                 </div>
 
