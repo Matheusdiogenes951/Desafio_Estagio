@@ -11,6 +11,8 @@ Modernizar a comunicação digital com alunos e interessados através de um chat
 
 ## O que foi desenvolvido
 
+### Projeto feito no Linux Mint
+
 ### 1. **Landing Page (Dashboard Público)**
 - Página inicial com informações sobre a escola
 - Chatbot integrado que responde perguntas automaticamente
