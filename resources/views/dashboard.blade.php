@@ -48,7 +48,6 @@
 
                         <div class="hero-actions">
                             <a href="#cursos" class="button button-secondary">Conhecer Unidade</a>
-                            <button type="button" class="button button-ghost" id="heroChatButton">Processo Seletivo</button>
                         </div>
                     </div>
 
