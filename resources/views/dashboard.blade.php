@@ -454,7 +454,9 @@
             setChatState(!isOpen);
         });
 
-        heroChatButton.addEventListener('click', () => setChatState(true));
+        if (heroChatButton) {
+            heroChatButton.addEventListener('click', () => setChatState(true));
+        }
         chatClose.addEventListener('click', () => setChatState(false));
 
         chatForm.addEventListener('submit', async (event) => {
